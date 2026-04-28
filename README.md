@@ -85,7 +85,9 @@ python factorial.py
 ---
 
 ## 👨‍💻 Author
-
+Karan Pal Singh
+SOC-21
+62
 Created as part of Python Programming Lab coursework.
 
 ---
